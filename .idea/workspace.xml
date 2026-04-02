@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb40432e-c398-4f0d-80f0-eda1e0c9e935" name="Changes" comment="Events sorting tasks added" />
+    <list default="true" id="bb40432e-c398-4f0d-80f0-eda1e0c9e935" name="Changes" comment="Stack tasks added">
+      <change afterPath="$PROJECT_DIR$/08_stack/mock_1_task.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775134495607</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Stack tasks added">
+      <option name="closed" value="true" />
+      <created>1775134864603</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775134864603</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +119,7 @@
     <MESSAGE value="Bin search D task added" />
     <MESSAGE value="Bin search tasks added" />
     <MESSAGE value="Events sorting tasks added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Events sorting tasks added" />
+    <MESSAGE value="Stack tasks added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack tasks added" />
   </component>
 </project>
