@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb40432e-c398-4f0d-80f0-eda1e0c9e935" name="Changes" comment="Stack tasks added">
-      <change afterPath="$PROJECT_DIR$/08_stack/mock_1_task.py" afterDir="false" />
+    <list default="true" id="bb40432e-c398-4f0d-80f0-eda1e0c9e935" name="Changes" comment="Stack directory renamed">
+      <change afterPath="$PROJECT_DIR$/08_trees/A_Tree_height.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_trees/B_Depth_of_added_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_trees/C_Second_maximum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_trees/D_Bypass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_trees/E_Leaf_output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_trees/F_Fork_output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_trees/G_Branch_output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_trees/H_AVL-balance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_trees/I_Pedigree_number_of_descendants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +59,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.D_space_viilage.executor": "Run",
+    "Python.mock_2_task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -109,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775134864603</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Stack mock tasks added">
+      <option name="closed" value="true" />
+      <created>1775135017175</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775135017175</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Stack directory renamed">
+      <option name="closed" value="true" />
+      <created>1775135190188</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775135190188</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +146,8 @@
     <MESSAGE value="Bin search tasks added" />
     <MESSAGE value="Events sorting tasks added" />
     <MESSAGE value="Stack tasks added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stack tasks added" />
+    <MESSAGE value="Stack mock tasks added" />
+    <MESSAGE value="Stack directory renamed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack directory renamed" />
   </component>
 </project>
