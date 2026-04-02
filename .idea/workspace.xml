@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb40432e-c398-4f0d-80f0-eda1e0c9e935" name="Changes" comment="Bin search tasks added" />
+    <list default="true" id="bb40432e-c398-4f0d-80f0-eda1e0c9e935" name="Changes" comment="Events sorting tasks added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +37,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="3Bnj6N7dM1PZ7b6RhQrX8tU1xwB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -88,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775134193083</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Events sorting tasks added">
+      <option name="closed" value="true" />
+      <created>1775134495607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775134495607</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bin search D task added" />
     <MESSAGE value="Bin search tasks added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bin search tasks added" />
+    <MESSAGE value="Events sorting tasks added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Events sorting tasks added" />
   </component>
 </project>
